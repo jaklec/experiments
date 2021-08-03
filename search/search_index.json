@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Hello Hello, world","title":"Home"},{"location":"#hello","text":"Hello, world","title":"Hello"},{"location":"about/","text":"About Trying out mkdocs...","title":"About"},{"location":"about/#about","text":"Trying out mkdocs...","title":"About"}]}
