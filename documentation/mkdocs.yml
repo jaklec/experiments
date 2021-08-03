@@ -1,0 +1,20 @@
+site_name: experiments
+nav:
+  - Home: index.md
+  - About: about.md
+plugins:
+  - mermaid2
+  - search
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - bash
+    - sh
+    - javascript
+    - typescript
+    - yaml
+    - rust
+    - python
+    - go
+    - java
